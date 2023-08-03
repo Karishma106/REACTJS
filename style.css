@@ -1,0 +1,27 @@
+body {
+    background-image: url('bg.jpg');
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover;
+    font-size: 20px;
+    color: white;
+  }
+  .grid-container{
+    display: grid;
+    grid-template-columns: auto auto auto;
+  }
+  .grid-item {
+    background-color:cyan;
+    border: solid white;
+    padding: 10px;
+    text-align: center;
+    color: black;
+  }
+ .flex-container{
+    background-color: white;
+    font-size: 20px;
+  }
+.flex-item{
+    flex-direction: row;
+    color: black;
+  }
