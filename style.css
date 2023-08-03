@@ -18,10 +18,11 @@ body {
     color: black;
   }
  .flex-container{
-    background-color: white;
+    background-color: cyan;
     font-size: 20px;
   }
 .flex-item{
-    flex-direction: row;
+    text-align: center;
+    flex-direction: column;
     color: black;
   }

@@ -40,3 +40,4 @@ for(i=0;i<a;i++){
 //array
 array=[10,20]
 array.forEach(element => console.log(element))
+
